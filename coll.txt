@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 one is added
 two is added
 three is added
 
+=======
+coll is one
+>>>>>>> parent of 8d898d9 (one is added)
