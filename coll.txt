@@ -1,2 +1,3 @@
 coll is one
 cool is two added
+cold is three
